@@ -1,0 +1,20 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 29 Aug 2018 12:35:48 at http://crm.thememinister.com/crmAdmin/index.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://crm.thememinister.com/crmAdmin/index.html -O1 "C:\Users\User\Desktop\CRM\CRM" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+12:39:28	Error: 	"Not Found" (404) at link crm.thememinister.com/crmAdmin/assets/dist/css/bootstrap-datepicker.css (from crm.thememinister.com/crmAdmin/expense.html)
+12:44:17	Error: 	"Not Found" (404) at link crm.thememinister.com/crmAdmin/assets/plugins/toastr/toastr.css (from crm.thememinister.com/crmAdmin/notification.html)
+12:44:17	Error: 	"Not Found" (404) at link crm.thememinister.com/crmAdmin/assets/plugins/toastr/toastr.min.js (from crm.thememinister.com/crmAdmin/notification.html)
+12:44:37	Error: 	"Not Found" (404) at link crm.thememinister.com/crmAdmin/assets/plugins/NotificationStyles/fonts/codropsicons/codropsicons.eot (from crm.thememinister.com/crmAdmin/assets/plugins/NotificationStyles/css/demo.css)
+12:44:37	Error: 	"Not Found" (404) at link crm.thememinister.com/crmAdmin/assets/plugins/NotificationStyles/fonts/codropsicons/codropsicons.eot? (from crm.thememinister.com/crmAdmin/assets/plugins/NotificationStyles/css/demo.css)
+12:44:37	Error: 	"Not Found" (404) at link crm.thememinister.com/crmAdmin/assets/plugins/NotificationStyles/fonts/codropsicons/codropsicons.woff (from crm.thememinister.com/crmAdmin/assets/plugins/NotificationStyles/css/demo.css)
+12:44:37	Error: 	"Not Found" (404) at link crm.thememinister.com/crmAdmin/assets/plugins/NotificationStyles/fonts/codropsicons/codropsicons.ttf (from crm.thememinister.com/crmAdmin/assets/plugins/NotificationStyles/css/demo.css)
+12:44:37	Error: 	"Not Found" (404) at link crm.thememinister.com/crmAdmin/assets/plugins/NotificationStyles/fonts/codropsicons/codropsicons.svg (from crm.thememinister.com/crmAdmin/assets/plugins/NotificationStyles/css/demo.css)
+12:45:10	Error: 	"Not Found" (404) at link crm.thememinister.com/crmAdmin/mailbox.html (from crm.thememinister.com/crmAdmin/compose.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 9 minutes 22 seconds : 850 links scanned, 840 files written (21961972 bytes overall) [8679223 bytes received at 15443 bytes/sec], 18392468 bytes transferred using HTTP compression in 727 files, ratio 26%, 28.3 requests per connection
+(9 errors, 0 warnings, 0 messages)
